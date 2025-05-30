@@ -1,0 +1,4 @@
+Added Component: Designator=MR(CON_1)
+Added Pin To Net: NetName=NetMR_0 Pin=MR-0
+Added Pin To Net: NetName=NetMR_0 Pin=MR-1
+Added Member To Class: ClassName=SMPS_Template Member=Component MR 2-pin Header
