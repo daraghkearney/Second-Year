@@ -1,0 +1,61 @@
+Change Component Designator: OldDesignator=* NewDesignator=DHT11
+Change Component Designator: OldDesignator=* NewDesignator=DIGIT1
+Change Component Designator: OldDesignator=* NewDesignator=DIGIT2
+Change Component Designator: OldDesignator=* NewDesignator=Q1
+Change Component Designator: OldDesignator=* NewDesignator=Q2
+Change Component Designator: OldDesignator=* NewDesignator=R1
+Change Component Designator: OldDesignator=* NewDesignator=R8
+Change Component Designator: OldDesignator=*? NewDesignator=R2
+Change Component Designator: OldDesignator=*? NewDesignator=R3
+Change Component Designator: OldDesignator=*? NewDesignator=R4
+Change Component Designator: OldDesignator=*? NewDesignator=R5
+Change Component Designator: OldDesignator=*? NewDesignator=R6
+Change Component Designator: OldDesignator=*? NewDesignator=R7
+Change Component Designator: OldDesignator=*? NewDesignator=R9
+Change Component Designator: OldDesignator=*? NewDesignator=R10
+Change Component Designator: OldDesignator=AD? NewDesignator=AD
+Change Component Designator: OldDesignator=IOH ? NewDesignator=IOH 1
+Change Component Designator: OldDesignator=IOH ? NewDesignator=IOH 2
+Change Component Designator: OldDesignator=POWER? NewDesignator=POWER
+Change Net Name : Old Net Name=Net*?_2 New Net Name=NetDIGIT1_1
+Change Net Name : Old Net Name=Net*_2 New Net Name=NetDIGIT1_4
+Change Net Name : Old Net Name=Net*_3 New Net Name=NetDIGIT1_3
+Added Pin To Net: NetName=NetDIGIT1_2 Pin=DIGIT1-2
+Added Pin To Net: NetName=NetDIGIT1_2 Pin=R2-2
+Added Net: Name=NetDIGIT1_2
+Added Pin To Net: NetName=NetDIGIT1_6 Pin=DIGIT1-6
+Added Pin To Net: NetName=NetDIGIT1_6 Pin=R4-2
+Added Net: Name=NetDIGIT1_6
+Added Pin To Net: NetName=NetDIGIT1_7 Pin=DIGIT1-7
+Added Pin To Net: NetName=NetDIGIT1_7 Pin=R5-2
+Added Net: Name=NetDIGIT1_7
+Added Pin To Net: NetName=NetDIGIT1_9 Pin=DIGIT1-9
+Added Pin To Net: NetName=NetDIGIT1_9 Pin=R6-2
+Added Net: Name=NetDIGIT1_9
+Added Pin To Net: NetName=NetDIGIT1_10 Pin=DIGIT1-10
+Added Pin To Net: NetName=NetDIGIT1_10 Pin=R7-2
+Added Net: Name=NetDIGIT1_10
+Added Pin To Net: NetName=NetDIGIT2_3 Pin=DIGIT2-3
+Added Pin To Net: NetName=NetDIGIT2_3 Pin=DIGIT2-8
+Added Pin To Net: NetName=NetDIGIT2_3 Pin=Q2-7
+Added Net: Name=NetDIGIT2_3
+Added Pin To Net: NetName=NetQ1_6 Pin=Q1-6
+Added Pin To Net: NetName=NetQ1_6 Pin=R8-2
+Added Net: Name=NetQ1_6
+Added Pin To Net: NetName=NetQ2_6 Pin=Q2-6
+Added Pin To Net: NetName=NetQ2_6 Pin=R9-2
+Added Net: Name=NetQ2_6
+Added Member To Class: ClassName=WeatherStation Member=Component DIGIT1 LTS543R
+Added Member To Class: ClassName=WeatherStation Member=Component DIGIT2 LTS543R
+Added Member To Class: ClassName=WeatherStation Member=Component IOH 1
+Added Member To Class: ClassName=WeatherStation Member=Component Q1 Transistor
+Added Member To Class: ClassName=WeatherStation Member=Component Q2 Transistor
+Added Member To Class: ClassName=WeatherStation Member=Component R1 Resistor 330
+Added Member To Class: ClassName=WeatherStation Member=Component R2 Resistor 330
+Added Member To Class: ClassName=WeatherStation Member=Component R4 Resistor 330
+Added Member To Class: ClassName=WeatherStation Member=Component R5 Resistor 330
+Added Member To Class: ClassName=WeatherStation Member=Component R6 Resistor 330
+Added Member To Class: ClassName=WeatherStation Member=Component R7 Resistor 330
+Added Member To Class: ClassName=WeatherStation Member=Component R8 Resistor 4.7k
+Added Member To Class: ClassName=WeatherStation Member=Component R9 Resistor 4.7k
+Added Member To Class: ClassName=WeatherStation Member=Component R10 Resistor 4.7k

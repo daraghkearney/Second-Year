@@ -1,0 +1,26 @@
+Added Pin To Net: NetName=GND Pin=*-5
+Added Pin To Net: NetName=GND Pin=*-5
+Added Pin To Net: NetName=Net*_3 Pin=*-7
+Add Net: Net with name "Net*?_2" already exists
+Add Net: Net with name "Net*?_2" already exists
+Add Net: Net with name "Net*?_2" already exists
+Add Net: Net with name "Net*?_2" already exists
+Add Net: Net with name "Net*?_2" already exists
+Add Net: Net with name "Net*?_2" already exists
+Add Net: Net with name "Net*_2" already exists
+Add Net: Net with name "Net*_3" already exists
+Added Member To Class: ClassName=WeatherStation Member=Component *? Resistor 330
+Added Member To Class: ClassName=WeatherStation Member=Component *? Resistor 330
+Added Member To Class: ClassName=WeatherStation Member=Component *? Resistor 4.7k
+Added Member To Class: ClassName=WeatherStation Member=Component *? Resistor 330
+Added Member To Class: ClassName=WeatherStation Member=Component *? Resistor 330
+Added Member To Class: ClassName=WeatherStation Member=Component *? Resistor 330
+Added Member To Class: ClassName=WeatherStation Member=Component *? Resistor 330
+Added Member To Class: ClassName=WeatherStation Member=Component * Resistor 330
+Added Member To Class: ClassName=WeatherStation Member=Component * Transistor
+Added Member To Class: ClassName=WeatherStation Member=Component * LTS543R
+Added Member To Class: ClassName=WeatherStation Member=Component * DHT11
+Added Member To Class: ClassName=WeatherStation Member=Component * LTS543R
+Added Member To Class: ClassName=WeatherStation Member=Component * Resistor 4.7k
+Added Member To Class: ClassName=WeatherStation Member=Component * Transistor
+Added Member To Class: ClassName=WeatherStation Member=Component IOH ? IOH 1
