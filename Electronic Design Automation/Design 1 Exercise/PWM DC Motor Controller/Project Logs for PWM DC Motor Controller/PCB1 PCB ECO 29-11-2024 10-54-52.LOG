@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=Net*_1 Pin=*-1
+Removed Pin From Net: NetName=Net* Pin=*-2
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=*-2
+Added Pin To Net: NetName=Net* Pin=*-2
+Add Pin To Net: Unknown Pin: Pin *-Gnd
+Add Pin To Net: Unknown Pin: Pin *-Rst
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Net: Net with name "Net*_1" already exists
+Add Net: Net with name "Net*" already exists
+Add Net: Net with name "Net*" already exists
+Add Net: Net with name "Net*" already exists
+Add Class Member: Failed to add class member : Component *? Transistor
+Added Member To Class: ClassName=Sheet1 Member=Component * Resistor2
+Added Member To Class: ClassName=Sheet1 Member=Component * Resistor2
+Added Member To Class: ClassName=Sheet1 Member=Component * LED
+Added Member To Class: ClassName=Sheet1 Member=Component * Motor
+Added Member To Class: ClassName=Sheet1 Member=Component * Capacitor 100n
+Added Member To Class: ClassName=Sheet1 Member=Component * 555
+Added Member To Class: ClassName=Sheet1 Member=Component * LED
+Added Member To Class: ClassName=Sheet1 Member=Component * Resistor2
+Added Member To Class: ClassName=Sheet1 Member=Component * Capacitor 100n
+Add Class Member: Failed to add class member : Component C? 100n
+Add Class Member: Failed to add class member : Component C? 100uF

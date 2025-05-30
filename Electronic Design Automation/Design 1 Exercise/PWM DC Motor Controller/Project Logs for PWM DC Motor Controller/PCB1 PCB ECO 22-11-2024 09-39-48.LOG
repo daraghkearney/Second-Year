@@ -1,0 +1,32 @@
+Add Pin To Net: Unknown Pin: Pin *-1
+Add Pin To Net: Unknown Pin: Pin *-1
+Add Pin To Net: Unknown Pin: Pin *-1
+Add Pin To Net: Unknown Pin: Pin *-2
+Add Pin To Net: Unknown Pin: Pin *-Gnd
+Add Pin To Net: Unknown Pin: Pin *-Rst
+Add Pin To Net: Unknown Pin: Pin *?-0
+Add Pin To Net: Unknown Pin: Pin *?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin D?-1
+Add Pin To Net: Unknown Pin: Pin D?-1
+Add Pin To Net: Unknown Pin: Pin D?-2
+Add Pin To Net: Unknown Pin: Pin D?-2
+Add Net: Net with name "Net*" already exists
+Add Net: Net with name "Net*" already exists
+Add Net: Net with name "Net*" already exists
+Add Class Member: Failed to add class member : Component *? Transistor
+Add Class Member: Failed to add class member : Component *? M1
+Add Class Member: Failed to add class member : Component * Resistor2
+Add Class Member: Failed to add class member : Component * 555
+Add Class Member: Failed to add class member : Component * Resistor2
+Add Class Member: Failed to add class member : Component * Capacitor 100n
+Add Class Member: Failed to add class member : Component * Resistor2
+Add Class Member: Failed to add class member : Component * Capacitor 100n
+Add Class Member: Failed to add class member : Component C? 100uF
+Add Class Member: Failed to add class member : Component C? 100n
+Add Class Member: Failed to add class member : Component D? 1N4148
+Add Class Member: Failed to add class member : Component D? IN4001
+Add Class Member: Failed to add class member : Component D? 1N4148
