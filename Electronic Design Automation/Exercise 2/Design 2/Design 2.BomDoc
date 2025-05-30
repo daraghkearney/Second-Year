@@ -1,0 +1,25 @@
+|RECORD=BOM|VERSION=2|FILENAME=C:\Users\DARAGHKEARNEY-STUDEN\OneDrive - Atlantic TU\Electronic Design Automation\Exercise 2\Design 2\Design 2.BomDoc|KIND=ALTIUM_DESIGNER_LIVEBOM|DATE=13.12.2024|TIME=09:46:59|CURRENCY=USD|PRODUCTIONQUANTITY=1|PERUNITTARGETPRICE=0|PERUNITACTUALPRICE=0
+|RECORD=GeneralOptions|OPENEXPORTED=False|ADDTOPROJECT=False|FORCEFIT=False|NOTFITTED=False|TEMPLATEFILENAME=|BATCHMODE=0|SUPPLIERPRODQTY=0|SUPPLIERAUTOQTY=False|SUPPLIERUSECACHEDPRICING=False|SUPPLIERCURRENCY=|SOLUTIONSPERITEM=1|SUPPLIERSPERSOLUTION=1|DISPLAYTOTALROW=False|DISPLAYSUBTOTALSFORGROUPS=False|INCLUDEPCBPARAMETERS=False|INCLUDEDBPARAMETERS=False|INCLUDEVAULTPARAMETERS=False|INCLUDECLOUDPARAMETERS=False|INCLUDEDOCUMENTPARAMETERS=False|FILTEROUTRISKYSOLUTIONS=True|DESIGNATORGROUPING=No
+|RECORD=SortOrderOptions|SORTORDER=
+|RECORD=GroupOrderOptions|GROUPORDER=
+|RECORD=VisibleOrderOptions|VISIBLEORDER=Line #=54!Comment=72!Description=82!Designator=80!Quantity=67!Manufacturer 1=102!Manufacturer Part Number 1=169!Manufacturer Lifecycle 1=147!Supplier 1=75!Supplier Part Number 1=142!Supplier Unit Price 1=127!Supplier Subtotal 1=122
+|RECORD=VisibleOrderOptions2|BASEVIEW=Line #=54!Comment=72!Description=82!Designator=80!Quantity=67!Manufacturer 1=102!Manufacturer Part Number 1=169!Manufacturer Lifecycle 1=147!Supplier 1=75!Supplier Part Number 1=142!Supplier Unit Price 1=127!Supplier Subtotal 1=122|FLATVIEW=Line #=-1!Comment=-1!Description=-1!Designator=-1!Manufacturer 1=102!Manufacturer Part Number 1=169!Manufacturer Lifecycle 1=147!Supplier 1=75!Supplier Part Number 1=142!Supplier Unit Price 1=127!Supplier Subtotal 1=122|CONSOLIDATEDVIEW=Line #=-1!Comment=-1!Description=-1!Designator=-1!Quantity=-1!Manufacturer 1=102!Manufacturer Part Number 1=169!Manufacturer Lifecycle 1=147!Supplier 1=75!Supplier Part Number 1=142!Supplier Unit Price 1=127!Supplier Subtotal 1=122
+|RECORD=CustomColumns|CUSTOMCOLUMNS=
+|RECORD=ColumnsAliases|COLUMNSALIASES=Comment=Name
+|RECORD=FilterOptions|FILTER=
+|RECORD=CheckGroupCompParamsOptions|CHECKGROUPCOMPPARAMS=Comment=0,Description=0,Value=0,Footprint=1
+|RECORD=ManufacturerLinkOptions|MANUFACTURERLINKPARAMETERS=
+|RECORD=FavoriteSuppliers|PARTSOURCES=|SUPPLIERS=|USESUPPLIERORDER=False
+|RECORD=CheckOptions|CHECKLEVELS=
+|RECORD=LineNumberingOptions|STARTVALUE=|INCREMENT=
+|RECORD=Catalog|DBLINKFILEPATH=
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Schlib1.SchLib\AD|DESIGNITEMID=AD|ITEMSOURCE=Schlib1.SchLib|STATUS=Unknown|DESCRIPTION=|USERCOMMENTS=AD|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=,AD|COMPONENTPARAMETERS=Comment=AD,"Component Kind=Standard",Description=,Footprint=AD,"Ibis Model=","Library Name=Schlib1.SchLib","Library Reference=AD",PCB3D=,"Pin Info=","Signal Integrity=",Simulation=|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Schlib1.SchLib\ICSP|DESIGNITEMID=ICSP|ITEMSOURCE=Schlib1.SchLib|STATUS=Unknown|DESCRIPTION=|USERCOMMENTS=ICSP|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=,ICSP|COMPONENTPARAMETERS=Comment=ICSP,"Component Kind=Standard",Description=,Footprint=ICSP,"Ibis Model=","Library Name=Schlib1.SchLib","Library Reference=ICSP",PCB3D=,"Pin Info=","Signal Integrity=",Simulation=|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Schlib1.SchLib\IOH 1|DESIGNITEMID=IOH 1|ITEMSOURCE=Schlib1.SchLib|STATUS=Unknown|DESCRIPTION=|USERCOMMENTS=IOH 1|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=,"IOH 1"|COMPONENTPARAMETERS="Comment=IOH 1","Component Kind=Standard",Description=,"Footprint=IOH 1","Ibis Model=","Library Name=Schlib1.SchLib","Library Reference=IOH 1",PCB3D=,"Pin Info=","Signal Integrity=",Simulation=|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Schlib1.SchLib\IOH 2|DESIGNITEMID=IOH 2|ITEMSOURCE=Schlib1.SchLib|STATUS=Unknown|DESCRIPTION=|USERCOMMENTS=IOH 2|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=,"IOH 2"|COMPONENTPARAMETERS="Comment=IOH 2","Component Kind=Standard",Description=,"Footprint=IOH 2","Ibis Model=","Library Name=Schlib1.SchLib","Library Reference=IOH 2",PCB3D=,"Pin Info=","Signal Integrity=",Simulation=|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Schlib1.SchLib\POWER|DESIGNITEMID=POWER|ITEMSOURCE=Schlib1.SchLib|STATUS=Unknown|DESCRIPTION=|USERCOMMENTS=POWER|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=,POWER|COMPONENTPARAMETERS=Comment=POWER,"Component Kind=Standard",Description=,Footprint=POWER,"Ibis Model=","Library Name=Schlib1.SchLib","Library Reference=POWER",PCB3D=,"Pin Info=","Signal Integrity=",Simulation=|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
